@@ -1,0 +1,2 @@
+model_checkpoint_path: "cube_00_adam_50_1e-3"
+all_model_checkpoint_paths: "cube_00_adam_50_1e-3"
