@@ -1,0 +1,3 @@
+model_checkpoint_path: "cube_00_default-100"
+all_model_checkpoint_paths: "cube_00_default"
+all_model_checkpoint_paths: "cube_00_default-100"
